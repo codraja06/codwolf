@@ -1,4 +1,17 @@
+# Hi there 👋, I'm Rajaram  
 
+Welcome to my GitHub profile!  
+I'm a passionate **Cybersecurity Enthusiast** who loves building, learning, and sharing knowledge.  
+
+---
+
+## 🚀 About Me
+- 🌱 I’m currently learning ** Penetration Testing ** 
+- 👨‍💻 I enjoy working with ** Python, Linux, Wireshark ** 
+- 💡 Interested in ** Ethical Hacking ** 
+- 📫 How to reach me: ** codraja19@gmail.com** 
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_dr_._strange_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajaramg06) 
 
